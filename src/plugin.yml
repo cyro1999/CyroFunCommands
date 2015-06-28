@@ -1,0 +1,8 @@
+name: CyroFunCommands
+main: com.Cyro1999.CyroFunCommands.CyroFunCommands
+version: 1.0
+description: Some fun commands!
+authors: [Cyro1999, TylerHyperHD]
+
+# plugin.yml is no longer used to define commands.
+# Credit to the Superior Development for big part in the code in this plugin.
