@@ -6,7 +6,7 @@ package com.Cyro1999.CyroFunCommands.Commands;
 import com.Cyro1999.CyroFunCommands.CFC_Log;
 import com.Cyro1999.CyroFunCommands.CFC_Messages;
 import com.Cyro1999.CyroFunCommands.CyroFunCommands;
-import net.minecraft.util.org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
